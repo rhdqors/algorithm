@@ -1,7 +1,7 @@
-# algorithm
+# 프로그래머스 - 정수 내림차순으로 배치하기.
 ***
 
-### 프로그래머스 - 정수 내림차순으로 배치하기.
+
 
 ![image](https://user-images.githubusercontent.com/108318494/219372954-da4b70d4-4b16-49ea-a56b-4689666c5b28.png)
 
